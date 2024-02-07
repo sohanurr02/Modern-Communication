@@ -1,10 +1,10 @@
-Create and checkout a new branch called modulate
-Create a baseband signal at 5 kHz with an amplitude of 1 V and 0.002 ms in duration.
-Modify the carrier signal from 100 MHz to 1010 kHz and change the duration to 0.002 ms.
-AM Modulate the carrier using basic mathematical functions. The modulation index should be 1.
-AM Modulate using ammod command.
-Plot the transmitted waveforms in the time domain using subplots (label axis and title your plots). 
-Are the results the same?
+1. Create and checkout a new branch called modulate
+2. Create a baseband signal at 5 kHz with an amplitude of 1 V and 0.002 ms in duration.
+3. Modify the carrier signal from 100 MHz to 1010 kHz and change the duration to 0.002 ms.
+4. AM Modulate the carrier using basic mathematical functions. The modulation index should be 1.
+5. AM Modulate using ammod command.
+6. Plot the transmitted waveforms in the time domain using subplots (label axis and title your plots). 
+7. Are the results the same?
 
 
 
